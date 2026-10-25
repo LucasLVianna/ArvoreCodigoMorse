@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+
+### VS Code ###
+.vscode/
+
+### IntelliJ IDEA (projeto) ###
+.idea/
+*.iml

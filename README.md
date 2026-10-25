@@ -126,6 +126,7 @@ java -cp out Principal
 
 ## Autores
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Lucas Lana
+- Giovanna Paulin
+- Emilly de Oliveira
+
